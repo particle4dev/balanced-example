@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "balanced-payments-production": {}
+    },
+    "packages": {
+      "balanced-payments-production": {
+        "git": "https://github.com/c316/balanced-payments-production.git",
+        "tag": "v0.3.0",
+        "commit": "21e2665c4e9c0485a8cf728cf76b590a3fea33fb"
+      }
+    }
+  }
+}
